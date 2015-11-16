@@ -1,0 +1,47 @@
+[
+{
+    "collision_with_injury": 3.2, 
+    "dist_between_fail": 324.0, 
+    "customer_accident_rate": 7.12
+},
+{
+    "collision_with_injury": 34.2, 
+    "dist_between_fail": 924.0, 
+    "customer_accident_rate": 2.52
+},
+{
+    "collision_with_injury": 23.2, 
+    "dist_between_fail": 392.0, 
+    "customer_accident_rate": 3.87
+},
+{
+    "collision_with_injury": 3.2, 
+    "dist_between_fail": 34.0, 
+    "customer_accident_rate": 1.92
+},
+{
+    "collision_with_injury": 13.2, 
+    "dist_between_fail": 39.0, 
+    "customer_accident_rate": 2.22
+},
+{
+    "collision_with_injury": 37.2, 
+    "dist_between_fail": 24.0, 
+    "customer_accident_rate": 5.12
+},
+{
+    "collision_with_injury": 43.2, 
+    "dist_between_fail": 2924.0, 
+    "customer_accident_rate": 4.12
+},
+{
+    "collision_with_injury": 35.2, 
+    "dist_between_fail": 3124.0, 
+    "customer_accident_rate": 1.12
+},
+{
+    "collision_with_injury": 113.2, 
+    "dist_between_fail": 3929.0, 
+    "customer_accident_rate": 3.12
+}
+]
